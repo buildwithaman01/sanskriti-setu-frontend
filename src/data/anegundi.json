@@ -1,0 +1,34 @@
+{
+  "site_name": "Anegundi",
+  "tagline": "The mythical cradle of the Vijayanagara Empire and legends of Kishkindha.",
+  "location_name": "Anegundi, Koppal district, Karnataka, India",
+  "gps_location": {
+    "latitude": "15.3700° N",
+    "longitude": "76.4900° E"
+  },
+  "year_built": "14th century (as capital of the Vijayanagara Empire before Hampi), though the region is associated with much older mythological references from the Ramayana.",
+  "era": "Medieval",
+  "type": "Fort",
+  "description": "Anegundi, located on the northern banks of the Tungabhadra River opposite Hampi, is one of Karnataka’s most historically and mythologically significant sites. Often considered the elder capital of the Vijayanagara Empire, it predates the grand monuments of Hampi and is believed to be the legendary Kishkindha kingdom from the Ramayana, where Lord Rama met Hanuman. The village is dotted with ancient fort walls, temples, stepwells, and caves that echo centuries of history. Key sites include the Anjanadri Hill (believed to be the birthplace of Hanuman), Pampa Sarovar (a sacred lake tied to the Ramayana), Ranganatha Temple, and remnants of fortifications used by the Vijayanagara kings. Unlike Hampi’s grand stone temples, Anegundi carries a living heritage charm, with traditional village life coexisting alongside ruins, sacred sites, and stunning landscapes of boulders. It remains a spiritual, cultural, and archaeological gem, showcasing the fusion of myth, history, and living traditions.",
+  "primary_images": [
+    "anegundi_primary1.jpg",
+    "anegundi_primary2.jpg",
+    "anegundi_primary3.jpg"
+  ],
+  "image_gallery": [
+    "Anegundi Fort walls and gateways",
+    "Anjanadri Hill (Hanuman birthplace)",
+    "Pampa Sarovar (sacred pond)",
+    "Ranganatha Temple",
+    "Ancient stepwells and caves",
+    "Tungabhadra riverside views",
+    "Village scenes with traditional houses amidst boulders"
+  ],
+  "bot_story": "Welcome to Anegundi, a land where history and mythology walk hand in hand. Long before Hampi rose to glory, Anegundi was the capital of the Vijayanagara Empire. But its significance goes even deeper—this is believed to be the mythical Kishkindha from the Ramayana, where Lord Rama met Hanuman and where tales of devotion and bravery unfolded. As you wander through its fort walls, sacred ponds, and temples, you’ll feel the pulse of centuries. On the Anjanadri Hill, said to be Hanuman’s birthplace, pilgrims still climb the steps with chants of faith. At Pampa Sarovar, calm waters shimmer with stories of Sita and Rama. Anegundi is not just ruins—it is a living village where the past still breathes in every stone and story.",
+  "plan_your_visit": {
+    "how_to_reach": "Anegundi is about 5 km from Hampi, across the Tungabhadra River in Koppal district, Karnataka. The nearest railway station is Hospet Junction (35 km), and the closest airport is Hubballi Airport (166 km). From Hampi, coracle rides and road bridges connect visitors to Anegundi. Local buses and taxis are available from Hospet and Hampi.",
+    "where_to_stay": "Accommodation options include homestays and eco-lodges in Anegundi itself, offering a rustic experience of local village life. More extensive hotel and guesthouse options are available in Hampi and Hospet, ranging from budget stays to heritage resorts.",
+    "must_try_food": "Anegundi offers simple, authentic South Indian cuisine, with traditional Karnataka meals served on banana leaves. Local eateries serve idli, dosa, vada, and spicy curries. Nearby Hampi and Hospet offer more variety, including North Indian and continental options. Don’t miss jolada rotti (sorghum flatbread) and local sweet dishes like obattu."
+  },
+  "explore_more_link": "https://share.google/C2jyjcm8C9WQmhWzU"
+}

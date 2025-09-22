@@ -1,0 +1,23 @@
+{
+  "id": "baul-tradition-of-bengal",
+  "festival_name": "Baul Tradition of Bengal",
+  "tagline": "The mystical minstrels of Bengal, singing of love and divinity",
+  "primary_image": "baul_primary",
+  "description": [
+    "The Baul tradition is a centuries-old spiritual and musical movement from Bengal (West Bengal in India and parts of Bangladesh). Bauls are wandering mystic minstrels who express their philosophy through soulful songs that speak of divine love, the inner self, and the futility of worldly desires.",
+    "Dressed in saffron robes, with uncut hair and simple instruments like the ektara (one-stringed lute) and duggi (small drum), Bauls travel from village to village, performing at fairs, temples, and households. Their songs are not just music—they are a spiritual practice, blending elements of Sufi mysticism, Vaishnav bhakti, and Tantric philosophy.",
+    "The Baul tradition has been recognized by UNESCO as an Intangible Cultural Heritage of Humanity, highlighting its universal message of harmony and love."
+  ],
+  "significance": [
+    "Bauls embody Bengal’s syncretic culture, bridging Hindu and Muslim spiritual traditions. Their songs emphasize equality, love beyond boundaries, and devotion through inner realization rather than rigid rituals.",
+    "The movement historically challenged social hierarchies and caste divisions, making spirituality accessible to all. Rabindranath Tagore was deeply influenced by Baul philosophy, which inspired many of his songs.",
+    "For communities in Bengal, Bauls are more than artists—they are spiritual guides, storytellers, and keepers of an oral tradition that connects generations."
+  ],
+  "key_dates": [
+    { "event": "Poush Mela, Santiniketan", "month": "December" },
+    { "event": "Joydev Kenduli Mela, Birbhum", "month": "January" }
+  ],
+  "location": "Primarily in rural Bengal (Birbhum, Nadia, Murshidabad, Bardhaman districts in West Bengal; Kushtia in Bangladesh)",
+  "image_gallery": ["baul_primary", "baul_1", "baul_2"],
+  "explore_link": "https://share.google/J956gnWNNMsSsXwU0"
+}

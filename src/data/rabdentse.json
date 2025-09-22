@@ -1,0 +1,32 @@
+{
+  "site_name": "Rabdentse Ruins",
+  "tagline": "The silent ruins of Sikkim’s royal capital, whispering tales of its glorious past.",
+  "location_name": "Pelling, West Sikkim, Sikkim",
+  "gps_location": {
+    "latitude": "27.3116° N",
+    "longitude": "88.2392° E"
+  },
+  "year_built": "1670 (established as capital by the Chogyal of Sikkim, Tensung Namgyal)",
+  "era": "Medieval",
+  "type": "Palace",
+  "description": "Rabdentse Ruins are the remains of the second capital of the Kingdom of Sikkim, established in 1670 by Chogyal Tensung Namgyal and destroyed in the late 18th century by invading Nepalese forces. Situated near Pelling, the site offers a blend of history, spirituality, and scenic beauty, with the majestic Kanchenjunga mountain range as its backdrop. Once a thriving seat of royal administration, Rabdentse housed the king’s palace and a monastery complex. Today, the site is preserved as an archaeological heritage site by the Archaeological Survey of India (ASI). Visitors can explore the stone structures of the palace, the throne of the Chogyals (known as 'Namphogang'), and religious stupas, which still carry echoes of Sikkim’s Buddhist past. Rabdentse is not just a site of ruins but a journey into Sikkim’s cultural identity. Its serene environment and historical significance make it one of the most important destinations for both history lovers and spiritual seekers.",
+  "primary_images": [
+    "rabdentse_primary1.jpg",
+    "rabdentse_primary2.jpg",
+    "rabdentse_primary3.jpg"
+  ],
+  "image_gallery": [
+    "The remains of the royal palace",
+    "The Namphogang (stone throne of the kings)",
+    "Chortens and stupas around the site",
+    "Pathways and stone walls",
+    "Scenic view of Kanchenjunga from the site"
+  ],
+  "bot_story": "Long ago, this quiet place was alive with royal ceremonies, monks chanting, and the bustling life of a capital city. Welcome to the Rabdentse Ruins, the second capital of Sikkim, founded in 1670 by King Tensung Namgyal. From here, the Chogyals ruled the kingdom for more than a century. But history took a different turn—by the late 1700s, Nepalese invasions left the palace in ruins. Today, these moss-covered stones still stand as witnesses to a glorious past. As you walk through the site, imagine the royal processions and Buddhist rituals that once filled the air. And don’t forget to look up—the view of Kanchenjunga from here is as majestic as history itself.",
+  "plan_your_visit": {
+    "how_to_reach": "Rabdentse Ruins are located near Pelling in West Sikkim. The nearest airport is Bagdogra (about 160 km away), and the nearest railway station is New Jalpaiguri (NJP), around 152 km from Pelling. From both points, taxis and shared jeeps are available. Visitors can also reach the site from Gangtok (approximately 115 km) via road.",
+    "where_to_stay": "Pelling offers a range of accommodations, from budget guesthouses and homestays to mid-range hotels and resorts with views of Kanchenjunga. Popular stays include traditional Sikkimese homestays and boutique hotels for a more cultural experience.",
+    "must_try_food": "While in Pelling, don’t miss authentic Sikkimese and Tibetan flavors. Local favorites include momo (steamed dumplings), thukpa (noodle soup), gundruk (fermented leafy greens), and phagshapa (pork with radish and chili). Small cafes and eateries in Pelling also serve butter tea and locally brewed tongba (millet beer)."
+  },
+  "explore_more_link": "https://share.google/TDo0cvh8oQV7W6IMh"
+}

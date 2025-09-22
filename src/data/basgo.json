@@ -1,0 +1,33 @@
+{
+  "site_name": "Basgo Monastery (Basgo Gompa)",
+  "tagline": "A fortress-monastery of Ladakh, echoing tales of royalty, faith, and resilience.",
+  "location_name": "Basgo, Leh district, Ladakh, India",
+  "gps_location": {
+    "latitude": "34.1666° N",
+    "longitude": "77.4166° E"
+  },
+  "year_built": "1680 (during the reign of Namgyal rulers)",
+  "era": "Mughal",
+  "type": "Palace",
+  "description": "Basgo Monastery, also known as Basgo Gompa, stands as a striking blend of spirituality and defense in the Leh district of Ladakh. Built in the late 17th century by the Namgyal rulers, the monastery was constructed both as a place of Buddhist worship and as a fortress to guard the region against invasions. The monastery complex includes three main temples, the most notable being dedicated to Maitreya Buddha (the future Buddha). Inside, one can witness grand murals, intricate frescoes, and colossal clay statues that embody Ladakhi Buddhist art. The fortification walls and the monastery’s elevated location on a hilltop gave it immense strategic importance during times of conflict. Today, though parts of the fortress lie in ruins, Basgo remains an important heritage site symbolizing Ladakh’s religious devotion and historical resilience. Recognized by UNESCO for its cultural value, it continues to attract historians, pilgrims, and travelers seeking a glimpse into Ladakh’s glorious past.",
+  "primary_images": [
+    "basgo_primary1.jpg",
+    "basgo_primary2.jpg",
+    "basgo_primary3.jpg"
+  ],
+  "image_gallery": [
+    "Hilltop view of the fortress-monastery",
+    "The Maitreya Buddha temple interior",
+    "Frescoes and wall paintings",
+    "Clay statues of Buddhist deities",
+    "Fortified walls and ruins around the monastery",
+    "Aerial or panoramic views of Basgo village and Indus valley nearby"
+  ],
+  "bot_story": "High above the Indus valley rises Basgo Monastery, a fortress of faith and power. Built in the 17th century by the Namgyal kings, Basgo was not just a place of worship but also a stronghold guarding Ladakh from invaders. Imagine monks chanting within its sacred halls, while outside, warriors defended the kingdom. Inside, the monastery treasures magnificent images of Maitreya Buddha and centuries-old frescoes that tell stories of Buddhist devotion. Though time has left parts of its fortress in ruins, Basgo still stands tall, a proud reminder of Ladakh’s royal history and spiritual strength. When you gaze upon its red and white structures against the stark mountains, you are witnessing history carved into stone.",
+  "plan_your_visit": {
+    "how_to_reach": "Basgo Monastery is located about 40 km west of Leh town along the Leh–Srinagar highway. The nearest airport is Kushok Bakula Rimpochee Airport in Leh. From Leh, taxis and local buses regularly connect to Basgo village. A short trek uphill from the village leads to the monastery.",
+    "where_to_stay": "Accommodation is best found in Leh town, which offers everything from budget hostels and guesthouses to luxury hotels. For travelers seeking an authentic experience, nearby villages such as Nimmu and Alchi offer boutique homestays amidst traditional Ladakhi settings.",
+    "must_try_food": "Visitors to Ladakh should savor local delicacies like thukpa (noodle soup), momos (dumplings), skyu (a traditional Ladakhi pasta stew), and khambir (Ladakhi bread). Don’t miss butter tea (gur-gur chai) and locally brewed barley beer (chang). Nearby Leh town also offers fusion Tibetan and North Indian cuisine."
+  },
+  "explore_more_link": "https://share.google/Ek3eLTmC1SP6zOARX"
+}
