@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Modal from "./Modal";
 import Filter from "./Filter";
 
-// Import images
+// Import images - Cache refresh
 import basgo1 from "../../assets/heritage/basgo_primary1.jpg";
 import basgo2 from "../../assets/heritage/basgo_primary2.jpg";
 import basgo3 from "../../assets/heritage/basgo_primary3.jpg";
