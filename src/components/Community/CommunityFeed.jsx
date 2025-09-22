@@ -54,7 +54,7 @@ const CommunityFeed = ({ onComingSoon }) => {
   ];
 
   return (
-    <div className="space-y-6 max-h-96 overflow-y-auto">
+    <div className="space-y-4 md:space-y-6 max-h-80 md:max-h-96 overflow-y-auto">
       {samplePosts.map((post) => (
         <FeedPost
           key={post.id}
@@ -64,10 +64,10 @@ const CommunityFeed = ({ onComingSoon }) => {
       ))}
 
       {/* Load More Button */}
-      <div className="text-center pt-4">
+      <div className="text-center pt-3 md:pt-4">
         <button
           onClick={() => onComingSoon("Loading more stories will be available in the full version!")}
-          className="bg-[#E98A19] text-white py-2 px-6 rounded-lg font-medium hover:bg-[#D6791A] transition-colors"
+          className="bg-[#E98A19] text-white py-2 px-4 md:py-2 md:px-6 rounded-lg font-medium hover:bg-[#D6791A] transition-colors touch-manipulation text-sm md:text-base"
         >
           Load More Stories
         </button>

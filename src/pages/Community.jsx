@@ -57,15 +57,15 @@ const Community = () => {
       <Navbar />
 
       {/* Main Content */}
-      <div className="container mx-auto px-4 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div className="container mx-auto px-3 md:px-4 py-6 md:py-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8">
 
           {/* Story Submission Section */}
-          <div className="frosted-card p-6">
-            <h2 className="text-2xl font-bold text-[#E98A19] mb-6 text-center">
+          <div className="frosted-card p-4 md:p-6">
+            <h2 className="text-xl md:text-2xl font-bold text-[#E98A19] mb-4 md:mb-6 text-center">
               Share Your Story
             </h2>
-            <p className="text-gray-700 mb-6 text-center">
+            <p className="text-sm md:text-base text-gray-700 mb-4 md:mb-6 text-center">
               Share your connection to our rich heritage and culture with the community.
             </p>
 
@@ -75,13 +75,13 @@ const Community = () => {
                 <label className="block text-sm font-medium text-gray-700 mb-2">
                   Choose a category:
                 </label>
-                <div className="grid grid-cols-2 gap-2">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
                   {categories.map((category) => (
                     <button
                       key={category}
                       type="button"
                       onClick={() => setSelectedCategory(category)}
-                      className={`p-2 text-xs rounded-lg border transition-all ${
+                      className={`p-2 text-xs md:text-sm rounded-lg border transition-all touch-manipulation ${
                         selectedCategory === category
                           ? "bg-[#E98A19] text-white border-[#E98A19]"
                           : "bg-white text-gray-700 border-gray-300 hover:border-[#E98A19]"
@@ -103,7 +103,7 @@ const Community = () => {
                   onChange={(e) => setStoryText(e.target.value)}
                   placeholder="Share a memory about your favorite festival, a family tradition, or your connection to Indian culture..."
                   className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#E98A19] focus:border-transparent resize-none"
-                  rows={6}
+                  rows={4}
                   required
                 />
               </div>
@@ -113,7 +113,7 @@ const Community = () => {
                 <button
                   type="button"
                   onClick={() => handleComingSoon("Image upload feature will be available in the full version!")}
-                  className="w-full p-3 border-2 border-dashed border-gray-300 rounded-lg text-gray-500 hover:border-[#E98A19] hover:text-[#E98A19] transition-colors"
+                  className="w-full p-3 border-2 border-dashed border-gray-300 rounded-lg text-gray-500 hover:border-[#E98A19] hover:text-[#E98A19] transition-colors touch-manipulation"
                 >
                   📷 Upload Image (Coming Soon)
                 </button>
@@ -122,7 +122,7 @@ const Community = () => {
               {/* Submit Button */}
               <button
                 type="submit"
-                className="w-full bg-[#E98A19] text-white py-3 px-6 rounded-lg font-medium hover:bg-[#D6791A] transition-colors"
+                className="w-full bg-[#E98A19] text-white py-3 px-6 rounded-lg font-medium hover:bg-[#D6791A] transition-colors touch-manipulation"
               >
                 Share Your Story
               </button>
@@ -130,11 +130,11 @@ const Community = () => {
           </div>
 
           {/* Community Feed Section */}
-          <div className="frosted-card p-6">
-            <h2 className="text-2xl font-bold text-[#E98A19] mb-6 text-center">
+          <div className="frosted-card p-4 md:p-6">
+            <h2 className="text-xl md:text-2xl font-bold text-[#E98A19] mb-4 md:mb-6 text-center">
               Community Feed
             </h2>
-            <p className="text-gray-700 mb-6 text-center">
+            <p className="text-sm md:text-base text-gray-700 mb-4 md:mb-6 text-center">
               Discover stories from our cultural community.
             </p>
 
