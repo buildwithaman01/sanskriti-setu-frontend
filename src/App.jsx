@@ -7,6 +7,8 @@ import Culture from "./pages/Culture";
 import Heritage from "./pages/Heritage";
 import Traditions from "./pages/Traditions";
 import TraditionDetail from "./pages/TraditionDetail";
+import Marketplace from "./pages/Marketplace";
+import Community from "./pages/Community";
 import VedicBotWidget from "./components/shared/VedicBotWidget";
 import LoginPage from "./pages/LoginPage";
 
@@ -20,6 +22,8 @@ const App = () => {
         <Route path="/home" element={<Home />} />
         <Route path="/culture" element={<Culture />} />
         <Route path="/heritage" element={<Heritage />} />
+        <Route path="/marketplace" element={<Marketplace />} />
+        <Route path="/community" element={<Community />} />
         <Route path="/traditions" element={<Traditions />} />
         <Route path="/traditions/:id" element={<TraditionDetail />} />
       </Routes>

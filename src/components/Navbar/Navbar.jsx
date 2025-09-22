@@ -6,6 +6,7 @@ const links = [
   { name: "Home", path: "/home" },
   { name: "Culture", path: "/culture" },
   { name: "Heritage", path: "/heritage" },
+  { name: "Marketplace", path: "/marketplace" },
   { name: "Community", path: "/community" },
   { name: "Traditions", path: "/traditions" },
 ];
