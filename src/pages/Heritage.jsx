@@ -14,6 +14,8 @@ import rabdentseData from "../data/rabdentse.json";
 // Import heritage background
 import heritageBg from "../assets/backgrounds/heritage_bg.png";
 
+
+
 const allSitesData = [basgoData, anegundiData, rabdentseData];
 
 export default function Heritage() {
